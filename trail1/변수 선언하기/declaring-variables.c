@@ -3,8 +3,8 @@
 int main() {
     // Please write your code here.
     int a = 3;
-    char b = "C";
+    char b = 'C';
     printf("%d\n", a);
-    printf(b);
+    printf("%c\n", b);
     return 0;
 }
