@@ -6,5 +6,4 @@ int main() {
     char b = 'C';
     printf("%d\n", a);
     printf("%c\n", b);
-    return 0;
 }
